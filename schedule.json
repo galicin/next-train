@@ -1,8 +1,8 @@
 {
   "_Metadata": {
-    "timestamp": "2025-10-22 20:20:43",
+    "timestamp": "2025-10-22 21:41:11",
     "source": "https://sofiatraffic.bg/bg",
-    "checksum": "d0435d5c"
+    "checksum": "de8fb7cb"
   },
   "_PublicHolidays": [
     "2025-12-24",
@@ -18,13 +18,9 @@
   "M1": [
     {
       "stop": {
-        "id": 1231,
         "ext_id": "M16",
         "name": "Бизнес Парк София",
         "name_en": "Biznes Park Sofiya",
-        "code": "16",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3730660501",
         "latitude": "42.6298671746"
       },
@@ -56,13 +52,9 @@
     },
     {
       "stop": {
-        "id": 3365,
         "ext_id": "M15",
         "name": "Александър Теодоров-Балан",
         "name_en": "Aleksandar Teodorov-Balan",
-        "code": "15",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3729929632",
         "latitude": "42.6413487399"
       },
@@ -94,13 +86,9 @@
     },
     {
       "stop": {
-        "id": 3701,
         "ext_id": "M14",
         "name": "Александър Малинов",
         "name_en": "Aleksandar Malinov",
-        "code": "14",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3761336511",
         "latitude": "42.6468541375"
       },
@@ -132,13 +120,9 @@
     },
     {
       "stop": {
-        "id": 1805,
         "ext_id": "M13",
         "name": "Младост 1",
         "name_en": "Mladost 1",
-        "code": "13",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3719560619",
         "latitude": "42.6539363989"
       },
@@ -170,13 +154,9 @@
     },
     {
       "stop": {
-        "id": 3049,
         "ext_id": "M12",
         "name": "Мусагеница",
         "name_en": "Musagenitsa",
-        "code": "12",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3648764654",
         "latitude": "42.6582782309"
       },
@@ -208,13 +188,9 @@
     },
     {
       "stop": {
-        "id": 2226,
         "ext_id": "M11",
         "name": "Г. М. Димитров",
         "name_en": "G. M. Dimitrov",
-        "code": "11",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3572215991",
         "latitude": "42.6632345925"
       },
@@ -246,13 +222,9 @@
     },
     {
       "stop": {
-        "id": 1093,
         "ext_id": "M10",
         "name": "Жолио Кюри",
         "name_en": "Zholio Kyuri",
-        "code": "10",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3507855163",
         "latitude": "42.6714596774"
       },
@@ -284,13 +256,9 @@
     },
     {
       "stop": {
-        "id": 1871,
         "ext_id": "M9",
         "name": "Стадион Васил Левски",
         "name_en": "Stadion Vasil Levski",
-        "code": "9",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3321798404",
         "latitude": "42.6861268389"
       },
@@ -322,13 +290,9 @@
     },
     {
       "stop": {
-        "id": 635,
         "ext_id": "M8",
         "name": "Софийски Университет Св. Климент Охридски",
         "name_en": "Sofiyski Universitet Sv. Kliment Ohridski",
-        "code": "8",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3352544592",
         "latitude": "42.6917992515"
       },
@@ -360,13 +324,9 @@
     },
     {
       "stop": {
-        "id": 1502,
         "ext_id": "M7",
         "name": "Сердика",
         "name_en": "Serdika",
-        "code": "7",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3213577584",
         "latitude": "42.6977940926"
       },
@@ -398,13 +358,9 @@
     },
     {
       "stop": {
-        "id": 2500,
         "ext_id": "M6",
         "name": "Опълченска",
         "name_en": "Opaltchenska",
-        "code": "6",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3104674788",
         "latitude": "42.6998069199"
       },
@@ -436,13 +392,9 @@
     },
     {
       "stop": {
-        "id": 1323,
         "ext_id": "M5",
         "name": "Константин Величков",
         "name_en": "Konstantin Velitchkov",
-        "code": "5",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.29824833",
         "latitude": "42.7018586314"
       },
@@ -474,13 +426,9 @@
     },
     {
       "stop": {
-        "id": 1406,
         "ext_id": "M4",
         "name": "Вардар",
         "name_en": "Vardar",
-        "code": "4",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2848944326",
         "latitude": "42.7058746604"
       },
@@ -512,13 +460,9 @@
     },
     {
       "stop": {
-        "id": 1401,
         "ext_id": "M3",
         "name": "Западен Парк",
         "name_en": "Zapaden Park",
-        "code": "3",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2703919908",
         "latitude": "42.7112133209"
       },
@@ -550,13 +494,9 @@
     },
     {
       "stop": {
-        "id": 2520,
         "ext_id": "M2",
         "name": "Люлин",
         "name_en": "Lyulin",
-        "code": "2",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2567822658",
         "latitude": "42.7186044436"
       },
@@ -588,13 +528,9 @@
     },
     {
       "stop": {
-        "id": 1698,
         "ext_id": "M1",
         "name": "Сливница",
         "name_en": "Slivnitsa",
-        "code": "1",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2614824462",
         "latitude": "42.7266073031"
       },
@@ -626,13 +562,9 @@
     },
     {
       "stop": {
-        "id": 1698,
         "ext_id": "M1",
         "name": "Сливница",
         "name_en": "Slivnitsa",
-        "code": "1",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2614824462",
         "latitude": "42.7266073031"
       },
@@ -664,13 +596,9 @@
     },
     {
       "stop": {
-        "id": 2520,
         "ext_id": "M2",
         "name": "Люлин",
         "name_en": "Lyulin",
-        "code": "2",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2567822658",
         "latitude": "42.7186044436"
       },
@@ -702,13 +630,9 @@
     },
     {
       "stop": {
-        "id": 1401,
         "ext_id": "M3",
         "name": "Западен Парк",
         "name_en": "Zapaden Park",
-        "code": "3",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2703919908",
         "latitude": "42.7112133209"
       },
@@ -740,13 +664,9 @@
     },
     {
       "stop": {
-        "id": 1406,
         "ext_id": "M4",
         "name": "Вардар",
         "name_en": "Vardar",
-        "code": "4",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2848944326",
         "latitude": "42.7058746604"
       },
@@ -778,13 +698,9 @@
     },
     {
       "stop": {
-        "id": 1323,
         "ext_id": "M5",
         "name": "Константин Величков",
         "name_en": "Konstantin Velitchkov",
-        "code": "5",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.29824833",
         "latitude": "42.7018586314"
       },
@@ -816,13 +732,9 @@
     },
     {
       "stop": {
-        "id": 2500,
         "ext_id": "M6",
         "name": "Опълченска",
         "name_en": "Opaltchenska",
-        "code": "6",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3104674788",
         "latitude": "42.6998069199"
       },
@@ -854,13 +766,9 @@
     },
     {
       "stop": {
-        "id": 1502,
         "ext_id": "M7",
         "name": "Сердика",
         "name_en": "Serdika",
-        "code": "7",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3213577584",
         "latitude": "42.6977940926"
       },
@@ -892,13 +800,9 @@
     },
     {
       "stop": {
-        "id": 635,
         "ext_id": "M8",
         "name": "Софийски Университет Св. Климент Охридски",
         "name_en": "Sofiyski Universitet Sv. Kliment Ohridski",
-        "code": "8",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3352544592",
         "latitude": "42.6917992515"
       },
@@ -930,13 +834,9 @@
     },
     {
       "stop": {
-        "id": 1871,
         "ext_id": "M9",
         "name": "Стадион Васил Левски",
         "name_en": "Stadion Vasil Levski",
-        "code": "9",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3321798404",
         "latitude": "42.6861268389"
       },
@@ -968,13 +868,9 @@
     },
     {
       "stop": {
-        "id": 1093,
         "ext_id": "M10",
         "name": "Жолио Кюри",
         "name_en": "Zholio Kyuri",
-        "code": "10",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3507855163",
         "latitude": "42.6714596774"
       },
@@ -1006,13 +902,9 @@
     },
     {
       "stop": {
-        "id": 2226,
         "ext_id": "M11",
         "name": "Г. М. Димитров",
         "name_en": "G. M. Dimitrov",
-        "code": "11",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3572215991",
         "latitude": "42.6632345925"
       },
@@ -1044,13 +936,9 @@
     },
     {
       "stop": {
-        "id": 3049,
         "ext_id": "M12",
         "name": "Мусагеница",
         "name_en": "Musagenitsa",
-        "code": "12",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3648764654",
         "latitude": "42.6582782309"
       },
@@ -1082,13 +970,9 @@
     },
     {
       "stop": {
-        "id": 1805,
         "ext_id": "M13",
         "name": "Младост 1",
         "name_en": "Mladost 1",
-        "code": "13",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3719560619",
         "latitude": "42.6539363989"
       },
@@ -1120,13 +1004,9 @@
     },
     {
       "stop": {
-        "id": 3701,
         "ext_id": "M14",
         "name": "Александър Малинов",
         "name_en": "Aleksandar Malinov",
-        "code": "14",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3761336511",
         "latitude": "42.6468541375"
       },
@@ -1158,13 +1038,9 @@
     },
     {
       "stop": {
-        "id": 3365,
         "ext_id": "M15",
         "name": "Александър Теодоров-Балан",
         "name_en": "Aleksandar Teodorov-Balan",
-        "code": "15",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3729929632",
         "latitude": "42.6413487399"
       },
@@ -1196,13 +1072,9 @@
     },
     {
       "stop": {
-        "id": 1231,
         "ext_id": "M16",
         "name": "Бизнес Парк София",
         "name_en": "Biznes Park Sofiya",
-        "code": "16",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3730660501",
         "latitude": "42.6298671746"
       },
@@ -1234,13 +1106,9 @@
     },
     {
       "stop": {
-        "id": 1231,
         "ext_id": "M16",
         "name": "Бизнес Парк София",
         "name_en": "Biznes Park Sofiya",
-        "code": "16",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3730660501",
         "latitude": "42.6298671746"
       },
@@ -1272,13 +1140,9 @@
     },
     {
       "stop": {
-        "id": 3365,
         "ext_id": "M15",
         "name": "Александър Теодоров-Балан",
         "name_en": "Aleksandar Teodorov-Balan",
-        "code": "15",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3729929632",
         "latitude": "42.6413487399"
       },
@@ -1310,13 +1174,9 @@
     },
     {
       "stop": {
-        "id": 3701,
         "ext_id": "M14",
         "name": "Александър Малинов",
         "name_en": "Aleksandar Malinov",
-        "code": "14",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3761336511",
         "latitude": "42.6468541375"
       },
@@ -1348,13 +1208,9 @@
     },
     {
       "stop": {
-        "id": 1805,
         "ext_id": "M13",
         "name": "Младост 1",
         "name_en": "Mladost 1",
-        "code": "13",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3719560619",
         "latitude": "42.6539363989"
       },
@@ -1386,13 +1242,9 @@
     },
     {
       "stop": {
-        "id": 3049,
         "ext_id": "M12",
         "name": "Мусагеница",
         "name_en": "Musagenitsa",
-        "code": "12",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3648764654",
         "latitude": "42.6582782309"
       },
@@ -1424,13 +1276,9 @@
     },
     {
       "stop": {
-        "id": 2226,
         "ext_id": "M11",
         "name": "Г. М. Димитров",
         "name_en": "G. M. Dimitrov",
-        "code": "11",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3572215991",
         "latitude": "42.6632345925"
       },
@@ -1462,13 +1310,9 @@
     },
     {
       "stop": {
-        "id": 1093,
         "ext_id": "M10",
         "name": "Жолио Кюри",
         "name_en": "Zholio Kyuri",
-        "code": "10",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3507855163",
         "latitude": "42.6714596774"
       },
@@ -1500,13 +1344,9 @@
     },
     {
       "stop": {
-        "id": 1871,
         "ext_id": "M9",
         "name": "Стадион Васил Левски",
         "name_en": "Stadion Vasil Levski",
-        "code": "9",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3321798404",
         "latitude": "42.6861268389"
       },
@@ -1538,13 +1378,9 @@
     },
     {
       "stop": {
-        "id": 635,
         "ext_id": "M8",
         "name": "Софийски Университет Св. Климент Охридски",
         "name_en": "Sofiyski Universitet Sv. Kliment Ohridski",
-        "code": "8",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3352544592",
         "latitude": "42.6917992515"
       },
@@ -1576,13 +1412,9 @@
     },
     {
       "stop": {
-        "id": 1502,
         "ext_id": "M7",
         "name": "Сердика",
         "name_en": "Serdika",
-        "code": "7",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3213577584",
         "latitude": "42.6977940926"
       },
@@ -1614,13 +1446,9 @@
     },
     {
       "stop": {
-        "id": 2500,
         "ext_id": "M6",
         "name": "Опълченска",
         "name_en": "Opaltchenska",
-        "code": "6",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3104674788",
         "latitude": "42.6998069199"
       },
@@ -1652,13 +1480,9 @@
     },
     {
       "stop": {
-        "id": 1323,
         "ext_id": "M5",
         "name": "Константин Величков",
         "name_en": "Konstantin Velitchkov",
-        "code": "5",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.29824833",
         "latitude": "42.7018586314"
       },
@@ -1690,13 +1514,9 @@
     },
     {
       "stop": {
-        "id": 1406,
         "ext_id": "M4",
         "name": "Вардар",
         "name_en": "Vardar",
-        "code": "4",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2848944326",
         "latitude": "42.7058746604"
       },
@@ -1728,13 +1548,9 @@
     },
     {
       "stop": {
-        "id": 1401,
         "ext_id": "M3",
         "name": "Западен Парк",
         "name_en": "Zapaden Park",
-        "code": "3",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2703919908",
         "latitude": "42.7112133209"
       },
@@ -1766,13 +1582,9 @@
     },
     {
       "stop": {
-        "id": 2520,
         "ext_id": "M2",
         "name": "Люлин",
         "name_en": "Lyulin",
-        "code": "2",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2567822658",
         "latitude": "42.7186044436"
       },
@@ -1804,13 +1616,9 @@
     },
     {
       "stop": {
-        "id": 1698,
         "ext_id": "M1",
         "name": "Сливница",
         "name_en": "Slivnitsa",
-        "code": "1",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2614824462",
         "latitude": "42.7266073031"
       },
@@ -1842,13 +1650,9 @@
     },
     {
       "stop": {
-        "id": 1698,
         "ext_id": "M1",
         "name": "Сливница",
         "name_en": "Slivnitsa",
-        "code": "1",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2614824462",
         "latitude": "42.7266073031"
       },
@@ -1880,13 +1684,9 @@
     },
     {
       "stop": {
-        "id": 2520,
         "ext_id": "M2",
         "name": "Люлин",
         "name_en": "Lyulin",
-        "code": "2",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2567822658",
         "latitude": "42.7186044436"
       },
@@ -1918,13 +1718,9 @@
     },
     {
       "stop": {
-        "id": 1401,
         "ext_id": "M3",
         "name": "Западен Парк",
         "name_en": "Zapaden Park",
-        "code": "3",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2703919908",
         "latitude": "42.7112133209"
       },
@@ -1956,13 +1752,9 @@
     },
     {
       "stop": {
-        "id": 1406,
         "ext_id": "M4",
         "name": "Вардар",
         "name_en": "Vardar",
-        "code": "4",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2848944326",
         "latitude": "42.7058746604"
       },
@@ -1994,13 +1786,9 @@
     },
     {
       "stop": {
-        "id": 1323,
         "ext_id": "M5",
         "name": "Константин Величков",
         "name_en": "Konstantin Velitchkov",
-        "code": "5",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.29824833",
         "latitude": "42.7018586314"
       },
@@ -2032,13 +1820,9 @@
     },
     {
       "stop": {
-        "id": 2500,
         "ext_id": "M6",
         "name": "Опълченска",
         "name_en": "Opaltchenska",
-        "code": "6",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3104674788",
         "latitude": "42.6998069199"
       },
@@ -2070,13 +1854,9 @@
     },
     {
       "stop": {
-        "id": 1502,
         "ext_id": "M7",
         "name": "Сердика",
         "name_en": "Serdika",
-        "code": "7",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3213577584",
         "latitude": "42.6977940926"
       },
@@ -2108,13 +1888,9 @@
     },
     {
       "stop": {
-        "id": 635,
         "ext_id": "M8",
         "name": "Софийски Университет Св. Климент Охридски",
         "name_en": "Sofiyski Universitet Sv. Kliment Ohridski",
-        "code": "8",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3352544592",
         "latitude": "42.6917992515"
       },
@@ -2146,13 +1922,9 @@
     },
     {
       "stop": {
-        "id": 1871,
         "ext_id": "M9",
         "name": "Стадион Васил Левски",
         "name_en": "Stadion Vasil Levski",
-        "code": "9",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3321798404",
         "latitude": "42.6861268389"
       },
@@ -2184,13 +1956,9 @@
     },
     {
       "stop": {
-        "id": 1093,
         "ext_id": "M10",
         "name": "Жолио Кюри",
         "name_en": "Zholio Kyuri",
-        "code": "10",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3507855163",
         "latitude": "42.6714596774"
       },
@@ -2222,13 +1990,9 @@
     },
     {
       "stop": {
-        "id": 2226,
         "ext_id": "M11",
         "name": "Г. М. Димитров",
         "name_en": "G. M. Dimitrov",
-        "code": "11",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3572215991",
         "latitude": "42.6632345925"
       },
@@ -2260,13 +2024,9 @@
     },
     {
       "stop": {
-        "id": 3049,
         "ext_id": "M12",
         "name": "Мусагеница",
         "name_en": "Musagenitsa",
-        "code": "12",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3648764654",
         "latitude": "42.6582782309"
       },
@@ -2298,13 +2058,9 @@
     },
     {
       "stop": {
-        "id": 1805,
         "ext_id": "M13",
         "name": "Младост 1",
         "name_en": "Mladost 1",
-        "code": "13",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3719560619",
         "latitude": "42.6539363989"
       },
@@ -2336,13 +2092,9 @@
     },
     {
       "stop": {
-        "id": 3701,
         "ext_id": "M14",
         "name": "Александър Малинов",
         "name_en": "Aleksandar Malinov",
-        "code": "14",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3761336511",
         "latitude": "42.6468541375"
       },
@@ -2374,13 +2126,9 @@
     },
     {
       "stop": {
-        "id": 3365,
         "ext_id": "M15",
         "name": "Александър Теодоров-Балан",
         "name_en": "Aleksandar Teodorov-Balan",
-        "code": "15",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3729929632",
         "latitude": "42.6413487399"
       },
@@ -2412,13 +2160,9 @@
     },
     {
       "stop": {
-        "id": 1231,
         "ext_id": "M16",
         "name": "Бизнес Парк София",
         "name_en": "Biznes Park Sofiya",
-        "code": "16",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3730660501",
         "latitude": "42.6298671746"
       },
@@ -2452,13 +2196,9 @@
   "M2": [
     {
       "stop": {
-        "id": 3989,
         "ext_id": "M0",
         "name": "Обеля",
         "name_en": "Obelya",
-        "code": "0",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2765359651",
         "latitude": "42.7410804166"
       },
@@ -2490,13 +2230,9 @@
     },
     {
       "stop": {
-        "id": 3681,
         "ext_id": "M201",
         "name": "Ломско Шосе",
         "name_en": "Lomsko Shose",
-        "code": "201",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2873401387",
         "latitude": "42.7404642226"
       },
@@ -2528,13 +2264,9 @@
     },
     {
       "stop": {
-        "id": 3712,
         "ext_id": "M202",
         "name": "Бели Дунав",
         "name_en": "Beli Dunav",
-        "code": "202",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2931340246",
         "latitude": "42.7352029468"
       },
@@ -2566,13 +2298,9 @@
     },
     {
       "stop": {
-        "id": 2486,
         "ext_id": "M203",
         "name": "Надежда",
         "name_en": "Nadezhda",
-        "code": "203",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3009254436",
         "latitude": "42.728014194"
       },
@@ -2604,13 +2332,9 @@
     },
     {
       "stop": {
-        "id": 541,
         "ext_id": "M204",
         "name": "Хан Кубрат",
         "name_en": "Han Kubrat",
-        "code": "204",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3070509227",
         "latitude": "42.7224246754"
       },
@@ -2642,13 +2366,9 @@
     },
     {
       "stop": {
-        "id": 1275,
         "ext_id": "M205",
         "name": "Мария Луиза",
         "name_en": "Mariya Luiza",
-        "code": "205",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.313010441",
         "latitude": "42.714178392"
       },
@@ -2680,13 +2400,9 @@
     },
     {
       "stop": {
-        "id": 1625,
         "ext_id": "M206",
         "name": "Централна Гара",
         "name_en": "Tsentralna Gara",
-        "code": "206",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3222296541",
         "latitude": "42.7101650654"
       },
@@ -2718,13 +2434,9 @@
     },
     {
       "stop": {
-        "id": 3682,
         "ext_id": "M207",
         "name": "Лъвов Мост",
         "name_en": "Lavov Most",
-        "code": "207",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3237618295",
         "latitude": "42.7049399868"
       },
@@ -2756,13 +2468,9 @@
     },
     {
       "stop": {
-        "id": 1211,
         "ext_id": "M208",
         "name": "Сердика 2",
         "name_en": "Serdika 2",
-        "code": "208",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3220795939",
         "latitude": "42.6987460296"
       },
@@ -2794,13 +2502,9 @@
     },
     {
       "stop": {
-        "id": 2336,
         "ext_id": "M209",
         "name": "НДК",
         "name_en": "NDK",
-        "code": "209",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.318974337",
         "latitude": "42.6878824949"
       },
@@ -2832,13 +2536,9 @@
     },
     {
       "stop": {
-        "id": 1768,
         "ext_id": "M210",
         "name": "Европейски Съюз",
         "name_en": "Evropeyski Sayuz",
-        "code": "210",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3217902312",
         "latitude": "42.6785434458"
       },
@@ -2870,13 +2570,9 @@
     },
     {
       "stop": {
-        "id": 695,
         "ext_id": "M211",
         "name": "Джеймс Баучер",
         "name_en": "Dzheyms Bautcher",
-        "code": "211",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3212779658",
         "latitude": "42.6722434285"
       },
@@ -2908,13 +2604,9 @@
     },
     {
       "stop": {
-        "id": 2757,
         "ext_id": "M212",
         "name": "Витоша",
         "name_en": "Vitosha",
-        "code": "212",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3164587798",
         "latitude": "42.6593042579"
       },
@@ -2946,13 +2638,9 @@
     },
     {
       "stop": {
-        "id": 2757,
         "ext_id": "M212",
         "name": "Витоша",
         "name_en": "Vitosha",
-        "code": "212",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3164587798",
         "latitude": "42.6593042579"
       },
@@ -2984,13 +2672,9 @@
     },
     {
       "stop": {
-        "id": 695,
         "ext_id": "M211",
         "name": "Джеймс Баучер",
         "name_en": "Dzheyms Bautcher",
-        "code": "211",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3212779658",
         "latitude": "42.6722434285"
       },
@@ -3022,13 +2706,9 @@
     },
     {
       "stop": {
-        "id": 1768,
         "ext_id": "M210",
         "name": "Европейски Съюз",
         "name_en": "Evropeyski Sayuz",
-        "code": "210",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3217902312",
         "latitude": "42.6785434458"
       },
@@ -3060,13 +2740,9 @@
     },
     {
       "stop": {
-        "id": 2336,
         "ext_id": "M209",
         "name": "НДК",
         "name_en": "NDK",
-        "code": "209",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.318974337",
         "latitude": "42.6878824949"
       },
@@ -3098,13 +2774,9 @@
     },
     {
       "stop": {
-        "id": 1211,
         "ext_id": "M208",
         "name": "Сердика 2",
         "name_en": "Serdika 2",
-        "code": "208",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3220795939",
         "latitude": "42.6987460296"
       },
@@ -3136,13 +2808,9 @@
     },
     {
       "stop": {
-        "id": 3682,
         "ext_id": "M207",
         "name": "Лъвов Мост",
         "name_en": "Lavov Most",
-        "code": "207",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3237618295",
         "latitude": "42.7049399868"
       },
@@ -3174,13 +2842,9 @@
     },
     {
       "stop": {
-        "id": 1625,
         "ext_id": "M206",
         "name": "Централна Гара",
         "name_en": "Tsentralna Gara",
-        "code": "206",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3222296541",
         "latitude": "42.7101650654"
       },
@@ -3212,13 +2876,9 @@
     },
     {
       "stop": {
-        "id": 1275,
         "ext_id": "M205",
         "name": "Мария Луиза",
         "name_en": "Mariya Luiza",
-        "code": "205",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.313010441",
         "latitude": "42.714178392"
       },
@@ -3250,13 +2910,9 @@
     },
     {
       "stop": {
-        "id": 541,
         "ext_id": "M204",
         "name": "Хан Кубрат",
         "name_en": "Han Kubrat",
-        "code": "204",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3070509227",
         "latitude": "42.7224246754"
       },
@@ -3288,13 +2944,9 @@
     },
     {
       "stop": {
-        "id": 2486,
         "ext_id": "M203",
         "name": "Надежда",
         "name_en": "Nadezhda",
-        "code": "203",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3009254436",
         "latitude": "42.728014194"
       },
@@ -3326,13 +2978,9 @@
     },
     {
       "stop": {
-        "id": 3712,
         "ext_id": "M202",
         "name": "Бели Дунав",
         "name_en": "Beli Dunav",
-        "code": "202",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2931340246",
         "latitude": "42.7352029468"
       },
@@ -3364,13 +3012,9 @@
     },
     {
       "stop": {
-        "id": 3681,
         "ext_id": "M201",
         "name": "Ломско Шосе",
         "name_en": "Lomsko Shose",
-        "code": "201",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2873401387",
         "latitude": "42.7404642226"
       },
@@ -3402,13 +3046,9 @@
     },
     {
       "stop": {
-        "id": 3989,
         "ext_id": "M0",
         "name": "Обеля",
         "name_en": "Obelya",
-        "code": "0",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2765359651",
         "latitude": "42.7410804166"
       },
@@ -3440,13 +3080,9 @@
     },
     {
       "stop": {
-        "id": 3989,
         "ext_id": "M0",
         "name": "Обеля",
         "name_en": "Obelya",
-        "code": "0",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2765359651",
         "latitude": "42.7410804166"
       },
@@ -3478,13 +3114,9 @@
     },
     {
       "stop": {
-        "id": 3681,
         "ext_id": "M201",
         "name": "Ломско Шосе",
         "name_en": "Lomsko Shose",
-        "code": "201",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2873401387",
         "latitude": "42.7404642226"
       },
@@ -3516,13 +3148,9 @@
     },
     {
       "stop": {
-        "id": 3712,
         "ext_id": "M202",
         "name": "Бели Дунав",
         "name_en": "Beli Dunav",
-        "code": "202",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2931340246",
         "latitude": "42.7352029468"
       },
@@ -3554,13 +3182,9 @@
     },
     {
       "stop": {
-        "id": 2486,
         "ext_id": "M203",
         "name": "Надежда",
         "name_en": "Nadezhda",
-        "code": "203",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3009254436",
         "latitude": "42.728014194"
       },
@@ -3592,13 +3216,9 @@
     },
     {
       "stop": {
-        "id": 541,
         "ext_id": "M204",
         "name": "Хан Кубрат",
         "name_en": "Han Kubrat",
-        "code": "204",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3070509227",
         "latitude": "42.7224246754"
       },
@@ -3630,13 +3250,9 @@
     },
     {
       "stop": {
-        "id": 1275,
         "ext_id": "M205",
         "name": "Мария Луиза",
         "name_en": "Mariya Luiza",
-        "code": "205",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.313010441",
         "latitude": "42.714178392"
       },
@@ -3668,13 +3284,9 @@
     },
     {
       "stop": {
-        "id": 1625,
         "ext_id": "M206",
         "name": "Централна Гара",
         "name_en": "Tsentralna Gara",
-        "code": "206",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3222296541",
         "latitude": "42.7101650654"
       },
@@ -3706,13 +3318,9 @@
     },
     {
       "stop": {
-        "id": 3682,
         "ext_id": "M207",
         "name": "Лъвов Мост",
         "name_en": "Lavov Most",
-        "code": "207",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3237618295",
         "latitude": "42.7049399868"
       },
@@ -3744,13 +3352,9 @@
     },
     {
       "stop": {
-        "id": 1211,
         "ext_id": "M208",
         "name": "Сердика 2",
         "name_en": "Serdika 2",
-        "code": "208",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3220795939",
         "latitude": "42.6987460296"
       },
@@ -3782,13 +3386,9 @@
     },
     {
       "stop": {
-        "id": 2336,
         "ext_id": "M209",
         "name": "НДК",
         "name_en": "NDK",
-        "code": "209",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.318974337",
         "latitude": "42.6878824949"
       },
@@ -3820,13 +3420,9 @@
     },
     {
       "stop": {
-        "id": 1768,
         "ext_id": "M210",
         "name": "Европейски Съюз",
         "name_en": "Evropeyski Sayuz",
-        "code": "210",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3217902312",
         "latitude": "42.6785434458"
       },
@@ -3858,13 +3454,9 @@
     },
     {
       "stop": {
-        "id": 695,
         "ext_id": "M211",
         "name": "Джеймс Баучер",
         "name_en": "Dzheyms Bautcher",
-        "code": "211",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3212779658",
         "latitude": "42.6722434285"
       },
@@ -3896,13 +3488,9 @@
     },
     {
       "stop": {
-        "id": 2757,
         "ext_id": "M212",
         "name": "Витоша",
         "name_en": "Vitosha",
-        "code": "212",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3164587798",
         "latitude": "42.6593042579"
       },
@@ -3934,13 +3522,9 @@
     },
     {
       "stop": {
-        "id": 2757,
         "ext_id": "M212",
         "name": "Витоша",
         "name_en": "Vitosha",
-        "code": "212",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3164587798",
         "latitude": "42.6593042579"
       },
@@ -3972,13 +3556,9 @@
     },
     {
       "stop": {
-        "id": 695,
         "ext_id": "M211",
         "name": "Джеймс Баучер",
         "name_en": "Dzheyms Bautcher",
-        "code": "211",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3212779658",
         "latitude": "42.6722434285"
       },
@@ -4010,13 +3590,9 @@
     },
     {
       "stop": {
-        "id": 1768,
         "ext_id": "M210",
         "name": "Европейски Съюз",
         "name_en": "Evropeyski Sayuz",
-        "code": "210",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3217902312",
         "latitude": "42.6785434458"
       },
@@ -4048,13 +3624,9 @@
     },
     {
       "stop": {
-        "id": 2336,
         "ext_id": "M209",
         "name": "НДК",
         "name_en": "NDK",
-        "code": "209",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.318974337",
         "latitude": "42.6878824949"
       },
@@ -4086,13 +3658,9 @@
     },
     {
       "stop": {
-        "id": 1211,
         "ext_id": "M208",
         "name": "Сердика 2",
         "name_en": "Serdika 2",
-        "code": "208",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3220795939",
         "latitude": "42.6987460296"
       },
@@ -4124,13 +3692,9 @@
     },
     {
       "stop": {
-        "id": 3682,
         "ext_id": "M207",
         "name": "Лъвов Мост",
         "name_en": "Lavov Most",
-        "code": "207",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3237618295",
         "latitude": "42.7049399868"
       },
@@ -4162,13 +3726,9 @@
     },
     {
       "stop": {
-        "id": 1625,
         "ext_id": "M206",
         "name": "Централна Гара",
         "name_en": "Tsentralna Gara",
-        "code": "206",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3222296541",
         "latitude": "42.7101650654"
       },
@@ -4200,13 +3760,9 @@
     },
     {
       "stop": {
-        "id": 1275,
         "ext_id": "M205",
         "name": "Мария Луиза",
         "name_en": "Mariya Luiza",
-        "code": "205",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.313010441",
         "latitude": "42.714178392"
       },
@@ -4238,13 +3794,9 @@
     },
     {
       "stop": {
-        "id": 541,
         "ext_id": "M204",
         "name": "Хан Кубрат",
         "name_en": "Han Kubrat",
-        "code": "204",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3070509227",
         "latitude": "42.7224246754"
       },
@@ -4276,13 +3828,9 @@
     },
     {
       "stop": {
-        "id": 2486,
         "ext_id": "M203",
         "name": "Надежда",
         "name_en": "Nadezhda",
-        "code": "203",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3009254436",
         "latitude": "42.728014194"
       },
@@ -4314,13 +3862,9 @@
     },
     {
       "stop": {
-        "id": 3712,
         "ext_id": "M202",
         "name": "Бели Дунав",
         "name_en": "Beli Dunav",
-        "code": "202",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2931340246",
         "latitude": "42.7352029468"
       },
@@ -4352,13 +3896,9 @@
     },
     {
       "stop": {
-        "id": 3681,
         "ext_id": "M201",
         "name": "Ломско Шосе",
         "name_en": "Lomsko Shose",
-        "code": "201",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2873401387",
         "latitude": "42.7404642226"
       },
@@ -4390,13 +3930,9 @@
     },
     {
       "stop": {
-        "id": 3989,
         "ext_id": "M0",
         "name": "Обеля",
         "name_en": "Obelya",
-        "code": "0",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2765359651",
         "latitude": "42.7410804166"
       },
@@ -4430,13 +3966,9 @@
   "M3": [
     {
       "stop": {
-        "id": 4236,
         "ext_id": "M305",
         "name": "Хаджи Димитър",
         "name_en": "Hadzhi Dimitar",
-        "code": "305",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3526458924",
         "latitude": "42.7027053525"
       },
@@ -4468,13 +4000,9 @@
     },
     {
       "stop": {
-        "id": 3407,
         "ext_id": "M306",
         "name": "Теaтрална",
         "name_en": "Teatralna",
-        "code": "306",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3468672007",
         "latitude": "42.696745871"
       },
@@ -4506,13 +4034,9 @@
     },
     {
       "stop": {
-        "id": 775,
         "ext_id": "M308",
         "name": "Орлов Мост",
         "name_en": "Orlov Most",
-        "code": "308",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.335903401",
         "latitude": "42.690505407"
       },
@@ -4544,13 +4068,9 @@
     },
     {
       "stop": {
-        "id": 3773,
         "ext_id": "M309",
         "name": "Патриарх Евтимий",
         "name_en": "Patriarh Evtimiy",
-        "code": "309",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3273253711",
         "latitude": "42.6881178162"
       },
@@ -4582,13 +4102,9 @@
     },
     {
       "stop": {
-        "id": 1468,
         "ext_id": "M310",
         "name": "Ндк 2",
         "name_en": "Ndk 2",
-        "code": "310",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3181509383",
         "latitude": "42.6889572198"
       },
@@ -4620,13 +4136,9 @@
     },
     {
       "stop": {
-        "id": 936,
         "ext_id": "M311",
         "name": "Медицински Университет",
         "name_en": "Meditsinski Universitet",
-        "code": "311",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3102461602",
         "latitude": "42.6867740265"
       },
@@ -4658,13 +4170,9 @@
     },
     {
       "stop": {
-        "id": 2156,
         "ext_id": "M312",
         "name": "България",
         "name_en": "Balgariya",
-        "code": "312",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3009787673",
         "latitude": "42.6793918829"
       },
@@ -4696,13 +4204,9 @@
     },
     {
       "stop": {
-        "id": 2577,
         "ext_id": "M314",
         "name": "Красно Село",
         "name_en": "Krasno Selo",
-        "code": "314",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2840665969",
         "latitude": "42.6787802443"
       },
@@ -4734,13 +4238,9 @@
     },
     {
       "stop": {
-        "id": 1058,
         "ext_id": "M315",
         "name": "Овча Купел",
         "name_en": "Ovtcha Kupel",
-        "code": "315",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.269960787",
         "latitude": "42.6836875166"
       },
@@ -4772,13 +4272,9 @@
     },
     {
       "stop": {
-        "id": 1074,
         "ext_id": "M316",
         "name": "Мизия / Нбу",
         "name_en": "Miziya / Nbu",
-        "code": "316",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2556177129",
         "latitude": "42.6838310847"
       },
@@ -4810,13 +4306,9 @@
     },
     {
       "stop": {
-        "id": 3242,
         "ext_id": "M317",
         "name": "Овча Купел 2",
         "name_en": "Ovtcha Kupel 2",
-        "code": "317",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2450991776",
         "latitude": "42.6853576978"
       },
@@ -4848,13 +4340,9 @@
     },
     {
       "stop": {
-        "id": 809,
         "ext_id": "M318",
         "name": "Горна Баня",
         "name_en": "Gorna Banya",
-        "code": "318",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2419377918",
         "latitude": "42.6826955524"
       },
@@ -4886,13 +4374,9 @@
     },
     {
       "stop": {
-        "id": 809,
         "ext_id": "M318",
         "name": "Горна Баня",
         "name_en": "Gorna Banya",
-        "code": "318",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2419377918",
         "latitude": "42.6826955524"
       },
@@ -4924,13 +4408,9 @@
     },
     {
       "stop": {
-        "id": 3242,
         "ext_id": "M317",
         "name": "Овча Купел 2",
         "name_en": "Ovtcha Kupel 2",
-        "code": "317",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2450991776",
         "latitude": "42.6853576978"
       },
@@ -4962,13 +4442,9 @@
     },
     {
       "stop": {
-        "id": 1074,
         "ext_id": "M316",
         "name": "Мизия / Нбу",
         "name_en": "Miziya / Nbu",
-        "code": "316",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2556177129",
         "latitude": "42.6838310847"
       },
@@ -5000,13 +4476,9 @@
     },
     {
       "stop": {
-        "id": 1058,
         "ext_id": "M315",
         "name": "Овча Купел",
         "name_en": "Ovtcha Kupel",
-        "code": "315",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.269960787",
         "latitude": "42.6836875166"
       },
@@ -5038,13 +4510,9 @@
     },
     {
       "stop": {
-        "id": 2577,
         "ext_id": "M314",
         "name": "Красно Село",
         "name_en": "Krasno Selo",
-        "code": "314",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2840665969",
         "latitude": "42.6787802443"
       },
@@ -5076,13 +4544,9 @@
     },
     {
       "stop": {
-        "id": 2156,
         "ext_id": "M312",
         "name": "България",
         "name_en": "Balgariya",
-        "code": "312",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3009787673",
         "latitude": "42.6793918829"
       },
@@ -5114,13 +4578,9 @@
     },
     {
       "stop": {
-        "id": 936,
         "ext_id": "M311",
         "name": "Медицински Университет",
         "name_en": "Meditsinski Universitet",
-        "code": "311",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3102461602",
         "latitude": "42.6867740265"
       },
@@ -5152,13 +4612,9 @@
     },
     {
       "stop": {
-        "id": 1468,
         "ext_id": "M310",
         "name": "Ндк 2",
         "name_en": "Ndk 2",
-        "code": "310",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3181509383",
         "latitude": "42.6889572198"
       },
@@ -5190,13 +4646,9 @@
     },
     {
       "stop": {
-        "id": 3773,
         "ext_id": "M309",
         "name": "Патриарх Евтимий",
         "name_en": "Patriarh Evtimiy",
-        "code": "309",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3273253711",
         "latitude": "42.6881178162"
       },
@@ -5228,13 +4680,9 @@
     },
     {
       "stop": {
-        "id": 775,
         "ext_id": "M308",
         "name": "Орлов Мост",
         "name_en": "Orlov Most",
-        "code": "308",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.335903401",
         "latitude": "42.690505407"
       },
@@ -5266,13 +4714,9 @@
     },
     {
       "stop": {
-        "id": 3407,
         "ext_id": "M306",
         "name": "Теaтрална",
         "name_en": "Teatralna",
-        "code": "306",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3468672007",
         "latitude": "42.696745871"
       },
@@ -5304,13 +4748,9 @@
     },
     {
       "stop": {
-        "id": 4236,
         "ext_id": "M305",
         "name": "Хаджи Димитър",
         "name_en": "Hadzhi Dimitar",
-        "code": "305",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3526458924",
         "latitude": "42.7027053525"
       },
@@ -5342,13 +4782,9 @@
     },
     {
       "stop": {
-        "id": 4236,
         "ext_id": "M305",
         "name": "Хаджи Димитър",
         "name_en": "Hadzhi Dimitar",
-        "code": "305",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3526458924",
         "latitude": "42.7027053525"
       },
@@ -5380,13 +4816,9 @@
     },
     {
       "stop": {
-        "id": 3407,
         "ext_id": "M306",
         "name": "Теaтрална",
         "name_en": "Teatralna",
-        "code": "306",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3468672007",
         "latitude": "42.696745871"
       },
@@ -5418,13 +4850,9 @@
     },
     {
       "stop": {
-        "id": 775,
         "ext_id": "M308",
         "name": "Орлов Мост",
         "name_en": "Orlov Most",
-        "code": "308",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.335903401",
         "latitude": "42.690505407"
       },
@@ -5456,13 +4884,9 @@
     },
     {
       "stop": {
-        "id": 3773,
         "ext_id": "M309",
         "name": "Патриарх Евтимий",
         "name_en": "Patriarh Evtimiy",
-        "code": "309",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3273253711",
         "latitude": "42.6881178162"
       },
@@ -5494,13 +4918,9 @@
     },
     {
       "stop": {
-        "id": 1468,
         "ext_id": "M310",
         "name": "Ндк 2",
         "name_en": "Ndk 2",
-        "code": "310",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3181509383",
         "latitude": "42.6889572198"
       },
@@ -5532,13 +4952,9 @@
     },
     {
       "stop": {
-        "id": 936,
         "ext_id": "M311",
         "name": "Медицински Университет",
         "name_en": "Meditsinski Universitet",
-        "code": "311",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3102461602",
         "latitude": "42.6867740265"
       },
@@ -5570,13 +4986,9 @@
     },
     {
       "stop": {
-        "id": 2156,
         "ext_id": "M312",
         "name": "България",
         "name_en": "Balgariya",
-        "code": "312",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3009787673",
         "latitude": "42.6793918829"
       },
@@ -5608,13 +5020,9 @@
     },
     {
       "stop": {
-        "id": 2577,
         "ext_id": "M314",
         "name": "Красно Село",
         "name_en": "Krasno Selo",
-        "code": "314",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2840665969",
         "latitude": "42.6787802443"
       },
@@ -5646,13 +5054,9 @@
     },
     {
       "stop": {
-        "id": 1058,
         "ext_id": "M315",
         "name": "Овча Купел",
         "name_en": "Ovtcha Kupel",
-        "code": "315",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.269960787",
         "latitude": "42.6836875166"
       },
@@ -5684,13 +5088,9 @@
     },
     {
       "stop": {
-        "id": 1074,
         "ext_id": "M316",
         "name": "Мизия / Нбу",
         "name_en": "Miziya / Nbu",
-        "code": "316",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2556177129",
         "latitude": "42.6838310847"
       },
@@ -5722,13 +5122,9 @@
     },
     {
       "stop": {
-        "id": 3242,
         "ext_id": "M317",
         "name": "Овча Купел 2",
         "name_en": "Ovtcha Kupel 2",
-        "code": "317",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2450991776",
         "latitude": "42.6853576978"
       },
@@ -5760,13 +5156,9 @@
     },
     {
       "stop": {
-        "id": 809,
         "ext_id": "M318",
         "name": "Горна Баня",
         "name_en": "Gorna Banya",
-        "code": "318",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2419377918",
         "latitude": "42.6826955524"
       },
@@ -5798,13 +5190,9 @@
     },
     {
       "stop": {
-        "id": 809,
         "ext_id": "M318",
         "name": "Горна Баня",
         "name_en": "Gorna Banya",
-        "code": "318",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2419377918",
         "latitude": "42.6826955524"
       },
@@ -5836,13 +5224,9 @@
     },
     {
       "stop": {
-        "id": 3242,
         "ext_id": "M317",
         "name": "Овча Купел 2",
         "name_en": "Ovtcha Kupel 2",
-        "code": "317",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2450991776",
         "latitude": "42.6853576978"
       },
@@ -5874,13 +5258,9 @@
     },
     {
       "stop": {
-        "id": 1074,
         "ext_id": "M316",
         "name": "Мизия / Нбу",
         "name_en": "Miziya / Nbu",
-        "code": "316",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2556177129",
         "latitude": "42.6838310847"
       },
@@ -5912,13 +5292,9 @@
     },
     {
       "stop": {
-        "id": 1058,
         "ext_id": "M315",
         "name": "Овча Купел",
         "name_en": "Ovtcha Kupel",
-        "code": "315",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.269960787",
         "latitude": "42.6836875166"
       },
@@ -5950,13 +5326,9 @@
     },
     {
       "stop": {
-        "id": 2577,
         "ext_id": "M314",
         "name": "Красно Село",
         "name_en": "Krasno Selo",
-        "code": "314",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2840665969",
         "latitude": "42.6787802443"
       },
@@ -5988,13 +5360,9 @@
     },
     {
       "stop": {
-        "id": 2156,
         "ext_id": "M312",
         "name": "България",
         "name_en": "Balgariya",
-        "code": "312",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3009787673",
         "latitude": "42.6793918829"
       },
@@ -6026,13 +5394,9 @@
     },
     {
       "stop": {
-        "id": 936,
         "ext_id": "M311",
         "name": "Медицински Университет",
         "name_en": "Meditsinski Universitet",
-        "code": "311",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3102461602",
         "latitude": "42.6867740265"
       },
@@ -6064,13 +5428,9 @@
     },
     {
       "stop": {
-        "id": 1468,
         "ext_id": "M310",
         "name": "Ндк 2",
         "name_en": "Ndk 2",
-        "code": "310",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3181509383",
         "latitude": "42.6889572198"
       },
@@ -6102,13 +5462,9 @@
     },
     {
       "stop": {
-        "id": 3773,
         "ext_id": "M309",
         "name": "Патриарх Евтимий",
         "name_en": "Patriarh Evtimiy",
-        "code": "309",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3273253711",
         "latitude": "42.6881178162"
       },
@@ -6140,13 +5496,9 @@
     },
     {
       "stop": {
-        "id": 775,
         "ext_id": "M308",
         "name": "Орлов Мост",
         "name_en": "Orlov Most",
-        "code": "308",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.335903401",
         "latitude": "42.690505407"
       },
@@ -6178,13 +5530,9 @@
     },
     {
       "stop": {
-        "id": 3407,
         "ext_id": "M306",
         "name": "Теaтрална",
         "name_en": "Teatralna",
-        "code": "306",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3468672007",
         "latitude": "42.696745871"
       },
@@ -6216,13 +5564,9 @@
     },
     {
       "stop": {
-        "id": 4236,
         "ext_id": "M305",
         "name": "Хаджи Димитър",
         "name_en": "Hadzhi Dimitar",
-        "code": "305",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3526458924",
         "latitude": "42.7027053525"
       },
@@ -6256,13 +5600,9 @@
   "M4": [
     {
       "stop": {
-        "id": 2213,
         "ext_id": "M23",
         "name": "Летище София",
         "name_en": "Letishte Sofiya",
-        "code": "23",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4161254887",
         "latitude": "42.6880611321"
       },
@@ -6294,13 +5634,9 @@
     },
     {
       "stop": {
-        "id": 885,
         "ext_id": "M22",
         "name": "Софийска Света Гора",
         "name_en": "Sofiyska Sveta Gora",
-        "code": "22",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4099242049",
         "latitude": "42.6762093423"
       },
@@ -6332,13 +5668,9 @@
     },
     {
       "stop": {
-        "id": 1362,
         "ext_id": "M21",
         "name": "Искърско Шосе",
         "name_en": "Iskarsko Shose",
-        "code": "21",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4023337025",
         "latitude": "42.6680552106"
       },
@@ -6370,13 +5702,9 @@
     },
     {
       "stop": {
-        "id": 2570,
         "ext_id": "M20",
         "name": "Дружба",
         "name_en": "Druzhba",
-        "code": "20",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3945583903",
         "latitude": "42.6587449987"
       },
@@ -6408,13 +5736,9 @@
     },
     {
       "stop": {
-        "id": 314,
         "ext_id": "M19",
         "name": "Цариградско Шосе",
         "name_en": "Tsarigradsko Shose",
-        "code": "19",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3940701803",
         "latitude": "42.6492279862"
       },
@@ -6446,13 +5770,9 @@
     },
     {
       "stop": {
-        "id": 1041,
         "ext_id": "M18",
         "name": "Младост 3",
         "name_en": "Mladost 3",
-        "code": "18",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3836311122",
         "latitude": "42.6465227346"
       },
@@ -6484,13 +5804,9 @@
     },
     {
       "stop": {
-        "id": 1805,
         "ext_id": "M13",
         "name": "Младост 1",
         "name_en": "Mladost 1",
-        "code": "13",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3719560619",
         "latitude": "42.6539363989"
       },
@@ -6522,13 +5838,9 @@
     },
     {
       "stop": {
-        "id": 3049,
         "ext_id": "M12",
         "name": "Мусагеница",
         "name_en": "Musagenitsa",
-        "code": "12",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3648764654",
         "latitude": "42.6582782309"
       },
@@ -6560,13 +5872,9 @@
     },
     {
       "stop": {
-        "id": 2226,
         "ext_id": "M11",
         "name": "Г. М. Димитров",
         "name_en": "G. M. Dimitrov",
-        "code": "11",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3572215991",
         "latitude": "42.6632345925"
       },
@@ -6598,13 +5906,9 @@
     },
     {
       "stop": {
-        "id": 1093,
         "ext_id": "M10",
         "name": "Жолио Кюри",
         "name_en": "Zholio Kyuri",
-        "code": "10",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3507855163",
         "latitude": "42.6714596774"
       },
@@ -6636,13 +5940,9 @@
     },
     {
       "stop": {
-        "id": 1871,
         "ext_id": "M9",
         "name": "Стадион Васил Левски",
         "name_en": "Stadion Vasil Levski",
-        "code": "9",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3321798404",
         "latitude": "42.6861268389"
       },
@@ -6674,13 +5974,9 @@
     },
     {
       "stop": {
-        "id": 635,
         "ext_id": "M8",
         "name": "Софийски Университет Св. Климент Охридски",
         "name_en": "Sofiyski Universitet Sv. Kliment Ohridski",
-        "code": "8",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3352544592",
         "latitude": "42.6917992515"
       },
@@ -6712,13 +6008,9 @@
     },
     {
       "stop": {
-        "id": 1502,
         "ext_id": "M7",
         "name": "Сердика",
         "name_en": "Serdika",
-        "code": "7",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3213577584",
         "latitude": "42.6977940926"
       },
@@ -6750,13 +6042,9 @@
     },
     {
       "stop": {
-        "id": 2500,
         "ext_id": "M6",
         "name": "Опълченска",
         "name_en": "Opaltchenska",
-        "code": "6",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3104674788",
         "latitude": "42.6998069199"
       },
@@ -6788,13 +6076,9 @@
     },
     {
       "stop": {
-        "id": 1323,
         "ext_id": "M5",
         "name": "Константин Величков",
         "name_en": "Konstantin Velitchkov",
-        "code": "5",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.29824833",
         "latitude": "42.7018586314"
       },
@@ -6826,13 +6110,9 @@
     },
     {
       "stop": {
-        "id": 1406,
         "ext_id": "M4",
         "name": "Вардар",
         "name_en": "Vardar",
-        "code": "4",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2848944326",
         "latitude": "42.7058746604"
       },
@@ -6864,13 +6144,9 @@
     },
     {
       "stop": {
-        "id": 1401,
         "ext_id": "M3",
         "name": "Западен Парк",
         "name_en": "Zapaden Park",
-        "code": "3",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2703919908",
         "latitude": "42.7112133209"
       },
@@ -6902,13 +6178,9 @@
     },
     {
       "stop": {
-        "id": 2520,
         "ext_id": "M2",
         "name": "Люлин",
         "name_en": "Lyulin",
-        "code": "2",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2567822658",
         "latitude": "42.7186044436"
       },
@@ -6940,13 +6212,9 @@
     },
     {
       "stop": {
-        "id": 1698,
         "ext_id": "M1",
         "name": "Сливница",
         "name_en": "Slivnitsa",
-        "code": "1",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2614824462",
         "latitude": "42.7266073031"
       },
@@ -6978,13 +6246,9 @@
     },
     {
       "stop": {
-        "id": 1698,
         "ext_id": "M1",
         "name": "Сливница",
         "name_en": "Slivnitsa",
-        "code": "1",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2614824462",
         "latitude": "42.7266073031"
       },
@@ -7016,13 +6280,9 @@
     },
     {
       "stop": {
-        "id": 2520,
         "ext_id": "M2",
         "name": "Люлин",
         "name_en": "Lyulin",
-        "code": "2",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2567822658",
         "latitude": "42.7186044436"
       },
@@ -7054,13 +6314,9 @@
     },
     {
       "stop": {
-        "id": 1401,
         "ext_id": "M3",
         "name": "Западен Парк",
         "name_en": "Zapaden Park",
-        "code": "3",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2703919908",
         "latitude": "42.7112133209"
       },
@@ -7092,13 +6348,9 @@
     },
     {
       "stop": {
-        "id": 1406,
         "ext_id": "M4",
         "name": "Вардар",
         "name_en": "Vardar",
-        "code": "4",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2848944326",
         "latitude": "42.7058746604"
       },
@@ -7130,13 +6382,9 @@
     },
     {
       "stop": {
-        "id": 1323,
         "ext_id": "M5",
         "name": "Константин Величков",
         "name_en": "Konstantin Velitchkov",
-        "code": "5",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.29824833",
         "latitude": "42.7018586314"
       },
@@ -7168,13 +6416,9 @@
     },
     {
       "stop": {
-        "id": 2500,
         "ext_id": "M6",
         "name": "Опълченска",
         "name_en": "Opaltchenska",
-        "code": "6",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3104674788",
         "latitude": "42.6998069199"
       },
@@ -7206,13 +6450,9 @@
     },
     {
       "stop": {
-        "id": 1502,
         "ext_id": "M7",
         "name": "Сердика",
         "name_en": "Serdika",
-        "code": "7",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3213577584",
         "latitude": "42.6977940926"
       },
@@ -7244,13 +6484,9 @@
     },
     {
       "stop": {
-        "id": 635,
         "ext_id": "M8",
         "name": "Софийски Университет Св. Климент Охридски",
         "name_en": "Sofiyski Universitet Sv. Kliment Ohridski",
-        "code": "8",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3352544592",
         "latitude": "42.6917992515"
       },
@@ -7282,13 +6518,9 @@
     },
     {
       "stop": {
-        "id": 1871,
         "ext_id": "M9",
         "name": "Стадион Васил Левски",
         "name_en": "Stadion Vasil Levski",
-        "code": "9",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3321798404",
         "latitude": "42.6861268389"
       },
@@ -7320,13 +6552,9 @@
     },
     {
       "stop": {
-        "id": 1093,
         "ext_id": "M10",
         "name": "Жолио Кюри",
         "name_en": "Zholio Kyuri",
-        "code": "10",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3507855163",
         "latitude": "42.6714596774"
       },
@@ -7358,13 +6586,9 @@
     },
     {
       "stop": {
-        "id": 2226,
         "ext_id": "M11",
         "name": "Г. М. Димитров",
         "name_en": "G. M. Dimitrov",
-        "code": "11",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3572215991",
         "latitude": "42.6632345925"
       },
@@ -7396,13 +6620,9 @@
     },
     {
       "stop": {
-        "id": 3049,
         "ext_id": "M12",
         "name": "Мусагеница",
         "name_en": "Musagenitsa",
-        "code": "12",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3648764654",
         "latitude": "42.6582782309"
       },
@@ -7434,13 +6654,9 @@
     },
     {
       "stop": {
-        "id": 1805,
         "ext_id": "M13",
         "name": "Младост 1",
         "name_en": "Mladost 1",
-        "code": "13",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3719560619",
         "latitude": "42.6539363989"
       },
@@ -7472,13 +6688,9 @@
     },
     {
       "stop": {
-        "id": 1041,
         "ext_id": "M18",
         "name": "Младост 3",
         "name_en": "Mladost 3",
-        "code": "18",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3836311122",
         "latitude": "42.6465227346"
       },
@@ -7510,13 +6722,9 @@
     },
     {
       "stop": {
-        "id": 314,
         "ext_id": "M19",
         "name": "Цариградско Шосе",
         "name_en": "Tsarigradsko Shose",
-        "code": "19",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3940701803",
         "latitude": "42.6492279862"
       },
@@ -7548,13 +6756,9 @@
     },
     {
       "stop": {
-        "id": 2570,
         "ext_id": "M20",
         "name": "Дружба",
         "name_en": "Druzhba",
-        "code": "20",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3945583903",
         "latitude": "42.6587449987"
       },
@@ -7586,13 +6790,9 @@
     },
     {
       "stop": {
-        "id": 1362,
         "ext_id": "M21",
         "name": "Искърско Шосе",
         "name_en": "Iskarsko Shose",
-        "code": "21",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4023337025",
         "latitude": "42.6680552106"
       },
@@ -7624,13 +6824,9 @@
     },
     {
       "stop": {
-        "id": 885,
         "ext_id": "M22",
         "name": "Софийска Света Гора",
         "name_en": "Sofiyska Sveta Gora",
-        "code": "22",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4099242049",
         "latitude": "42.6762093423"
       },
@@ -7662,13 +6858,9 @@
     },
     {
       "stop": {
-        "id": 2213,
         "ext_id": "M23",
         "name": "Летище София",
         "name_en": "Letishte Sofiya",
-        "code": "23",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4161254887",
         "latitude": "42.6880611321"
       },
@@ -7700,13 +6892,9 @@
     },
     {
       "stop": {
-        "id": 2213,
         "ext_id": "M23",
         "name": "Летище София",
         "name_en": "Letishte Sofiya",
-        "code": "23",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4161254887",
         "latitude": "42.6880611321"
       },
@@ -7738,13 +6926,9 @@
     },
     {
       "stop": {
-        "id": 885,
         "ext_id": "M22",
         "name": "Софийска Света Гора",
         "name_en": "Sofiyska Sveta Gora",
-        "code": "22",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4099242049",
         "latitude": "42.6762093423"
       },
@@ -7776,13 +6960,9 @@
     },
     {
       "stop": {
-        "id": 1362,
         "ext_id": "M21",
         "name": "Искърско Шосе",
         "name_en": "Iskarsko Shose",
-        "code": "21",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4023337025",
         "latitude": "42.6680552106"
       },
@@ -7814,13 +6994,9 @@
     },
     {
       "stop": {
-        "id": 2570,
         "ext_id": "M20",
         "name": "Дружба",
         "name_en": "Druzhba",
-        "code": "20",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3945583903",
         "latitude": "42.6587449987"
       },
@@ -7852,13 +7028,9 @@
     },
     {
       "stop": {
-        "id": 314,
         "ext_id": "M19",
         "name": "Цариградско Шосе",
         "name_en": "Tsarigradsko Shose",
-        "code": "19",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3940701803",
         "latitude": "42.6492279862"
       },
@@ -7890,13 +7062,9 @@
     },
     {
       "stop": {
-        "id": 1041,
         "ext_id": "M18",
         "name": "Младост 3",
         "name_en": "Mladost 3",
-        "code": "18",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3836311122",
         "latitude": "42.6465227346"
       },
@@ -7928,13 +7096,9 @@
     },
     {
       "stop": {
-        "id": 1805,
         "ext_id": "M13",
         "name": "Младост 1",
         "name_en": "Mladost 1",
-        "code": "13",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3719560619",
         "latitude": "42.6539363989"
       },
@@ -7966,13 +7130,9 @@
     },
     {
       "stop": {
-        "id": 3049,
         "ext_id": "M12",
         "name": "Мусагеница",
         "name_en": "Musagenitsa",
-        "code": "12",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3648764654",
         "latitude": "42.6582782309"
       },
@@ -8004,13 +7164,9 @@
     },
     {
       "stop": {
-        "id": 2226,
         "ext_id": "M11",
         "name": "Г. М. Димитров",
         "name_en": "G. M. Dimitrov",
-        "code": "11",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3572215991",
         "latitude": "42.6632345925"
       },
@@ -8042,13 +7198,9 @@
     },
     {
       "stop": {
-        "id": 1093,
         "ext_id": "M10",
         "name": "Жолио Кюри",
         "name_en": "Zholio Kyuri",
-        "code": "10",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3507855163",
         "latitude": "42.6714596774"
       },
@@ -8080,13 +7232,9 @@
     },
     {
       "stop": {
-        "id": 1871,
         "ext_id": "M9",
         "name": "Стадион Васил Левски",
         "name_en": "Stadion Vasil Levski",
-        "code": "9",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3321798404",
         "latitude": "42.6861268389"
       },
@@ -8118,13 +7266,9 @@
     },
     {
       "stop": {
-        "id": 635,
         "ext_id": "M8",
         "name": "Софийски Университет Св. Климент Охридски",
         "name_en": "Sofiyski Universitet Sv. Kliment Ohridski",
-        "code": "8",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3352544592",
         "latitude": "42.6917992515"
       },
@@ -8156,13 +7300,9 @@
     },
     {
       "stop": {
-        "id": 1502,
         "ext_id": "M7",
         "name": "Сердика",
         "name_en": "Serdika",
-        "code": "7",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3213577584",
         "latitude": "42.6977940926"
       },
@@ -8194,13 +7334,9 @@
     },
     {
       "stop": {
-        "id": 2500,
         "ext_id": "M6",
         "name": "Опълченска",
         "name_en": "Opaltchenska",
-        "code": "6",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3104674788",
         "latitude": "42.6998069199"
       },
@@ -8232,13 +7368,9 @@
     },
     {
       "stop": {
-        "id": 1323,
         "ext_id": "M5",
         "name": "Константин Величков",
         "name_en": "Konstantin Velitchkov",
-        "code": "5",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.29824833",
         "latitude": "42.7018586314"
       },
@@ -8270,13 +7402,9 @@
     },
     {
       "stop": {
-        "id": 1406,
         "ext_id": "M4",
         "name": "Вардар",
         "name_en": "Vardar",
-        "code": "4",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2848944326",
         "latitude": "42.7058746604"
       },
@@ -8308,13 +7436,9 @@
     },
     {
       "stop": {
-        "id": 1401,
         "ext_id": "M3",
         "name": "Западен Парк",
         "name_en": "Zapaden Park",
-        "code": "3",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2703919908",
         "latitude": "42.7112133209"
       },
@@ -8346,13 +7470,9 @@
     },
     {
       "stop": {
-        "id": 2520,
         "ext_id": "M2",
         "name": "Люлин",
         "name_en": "Lyulin",
-        "code": "2",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2567822658",
         "latitude": "42.7186044436"
       },
@@ -8384,13 +7504,9 @@
     },
     {
       "stop": {
-        "id": 1698,
         "ext_id": "M1",
         "name": "Сливница",
         "name_en": "Slivnitsa",
-        "code": "1",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2614824462",
         "latitude": "42.7266073031"
       },
@@ -8422,13 +7538,9 @@
     },
     {
       "stop": {
-        "id": 1698,
         "ext_id": "M1",
         "name": "Сливница",
         "name_en": "Slivnitsa",
-        "code": "1",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2614824462",
         "latitude": "42.7266073031"
       },
@@ -8460,13 +7572,9 @@
     },
     {
       "stop": {
-        "id": 2520,
         "ext_id": "M2",
         "name": "Люлин",
         "name_en": "Lyulin",
-        "code": "2",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2567822658",
         "latitude": "42.7186044436"
       },
@@ -8498,13 +7606,9 @@
     },
     {
       "stop": {
-        "id": 1401,
         "ext_id": "M3",
         "name": "Западен Парк",
         "name_en": "Zapaden Park",
-        "code": "3",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2703919908",
         "latitude": "42.7112133209"
       },
@@ -8536,13 +7640,9 @@
     },
     {
       "stop": {
-        "id": 1406,
         "ext_id": "M4",
         "name": "Вардар",
         "name_en": "Vardar",
-        "code": "4",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.2848944326",
         "latitude": "42.7058746604"
       },
@@ -8574,13 +7674,9 @@
     },
     {
       "stop": {
-        "id": 1323,
         "ext_id": "M5",
         "name": "Константин Величков",
         "name_en": "Konstantin Velitchkov",
-        "code": "5",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.29824833",
         "latitude": "42.7018586314"
       },
@@ -8612,13 +7708,9 @@
     },
     {
       "stop": {
-        "id": 2500,
         "ext_id": "M6",
         "name": "Опълченска",
         "name_en": "Opaltchenska",
-        "code": "6",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3104674788",
         "latitude": "42.6998069199"
       },
@@ -8650,13 +7742,9 @@
     },
     {
       "stop": {
-        "id": 1502,
         "ext_id": "M7",
         "name": "Сердика",
         "name_en": "Serdika",
-        "code": "7",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3213577584",
         "latitude": "42.6977940926"
       },
@@ -8688,13 +7776,9 @@
     },
     {
       "stop": {
-        "id": 635,
         "ext_id": "M8",
         "name": "Софийски Университет Св. Климент Охридски",
         "name_en": "Sofiyski Universitet Sv. Kliment Ohridski",
-        "code": "8",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3352544592",
         "latitude": "42.6917992515"
       },
@@ -8726,13 +7810,9 @@
     },
     {
       "stop": {
-        "id": 1871,
         "ext_id": "M9",
         "name": "Стадион Васил Левски",
         "name_en": "Stadion Vasil Levski",
-        "code": "9",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3321798404",
         "latitude": "42.6861268389"
       },
@@ -8764,13 +7844,9 @@
     },
     {
       "stop": {
-        "id": 1093,
         "ext_id": "M10",
         "name": "Жолио Кюри",
         "name_en": "Zholio Kyuri",
-        "code": "10",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3507855163",
         "latitude": "42.6714596774"
       },
@@ -8802,13 +7878,9 @@
     },
     {
       "stop": {
-        "id": 2226,
         "ext_id": "M11",
         "name": "Г. М. Димитров",
         "name_en": "G. M. Dimitrov",
-        "code": "11",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3572215991",
         "latitude": "42.6632345925"
       },
@@ -8840,13 +7912,9 @@
     },
     {
       "stop": {
-        "id": 3049,
         "ext_id": "M12",
         "name": "Мусагеница",
         "name_en": "Musagenitsa",
-        "code": "12",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3648764654",
         "latitude": "42.6582782309"
       },
@@ -8878,13 +7946,9 @@
     },
     {
       "stop": {
-        "id": 1805,
         "ext_id": "M13",
         "name": "Младост 1",
         "name_en": "Mladost 1",
-        "code": "13",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3719560619",
         "latitude": "42.6539363989"
       },
@@ -8916,13 +7980,9 @@
     },
     {
       "stop": {
-        "id": 1041,
         "ext_id": "M18",
         "name": "Младост 3",
         "name_en": "Mladost 3",
-        "code": "18",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3836311122",
         "latitude": "42.6465227346"
       },
@@ -8954,13 +8014,9 @@
     },
     {
       "stop": {
-        "id": 314,
         "ext_id": "M19",
         "name": "Цариградско Шосе",
         "name_en": "Tsarigradsko Shose",
-        "code": "19",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3940701803",
         "latitude": "42.6492279862"
       },
@@ -8992,13 +8048,9 @@
     },
     {
       "stop": {
-        "id": 2570,
         "ext_id": "M20",
         "name": "Дружба",
         "name_en": "Druzhba",
-        "code": "20",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.3945583903",
         "latitude": "42.6587449987"
       },
@@ -9030,13 +8082,9 @@
     },
     {
       "stop": {
-        "id": 1362,
         "ext_id": "M21",
         "name": "Искърско Шосе",
         "name_en": "Iskarsko Shose",
-        "code": "21",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4023337025",
         "latitude": "42.6680552106"
       },
@@ -9068,13 +8116,9 @@
     },
     {
       "stop": {
-        "id": 885,
         "ext_id": "M22",
         "name": "Софийска Света Гора",
         "name_en": "Sofiyska Sveta Gora",
-        "code": "22",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4099242049",
         "latitude": "42.6762093423"
       },
@@ -9106,13 +8150,9 @@
     },
     {
       "stop": {
-        "id": 2213,
         "ext_id": "M23",
         "name": "Летище София",
         "name_en": "Letishte Sofiya",
-        "code": "23",
-        "type": 3,
-        "is_active": 1,
         "longitude": "23.4161254887",
         "latitude": "42.6880611321"
       },
